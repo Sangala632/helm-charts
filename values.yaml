@@ -1,5 +1,5 @@
 deployment:
   replicas: 2
-  imageVersion: latest
+  imageVersion: mainline-alpine-perl
 service:
   targetPort: 80
